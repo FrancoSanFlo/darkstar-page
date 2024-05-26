@@ -362,7 +362,7 @@ a.join:hover {
   }
 
   .pricing .card {
-    width: 90%; /* Ajusta el ancho de las tarjetas al 100% para que ocupen toda la línea */
+    width: 80%; /* Ajusta el ancho de las tarjetas al 100% para que ocupen toda la línea */
     max-width: 500px; /* Establece un ancho máximo para las tarjetas para evitar que sean demasiado grandes */
     margin: 0 auto; /* Centra las tarjetas */
   }
