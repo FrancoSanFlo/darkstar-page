@@ -322,7 +322,7 @@ a.join:hover {
 
 .pricing .card ul li {
   font-family: "Poppins", sans-serif;
-  font-size: 1.2rem; /* Increased font size */
+  font-size: 1rem; /* Increased font size */
   list-style: circle;
   line-height: 1.8rem; /* Increased line height */
 }
