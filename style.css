@@ -270,6 +270,8 @@ a.join:hover {
 .cards {
   display: flex;
   justify-content: center;
+  flex-grow: 1;
+  flex-shrink: 1;
   column-gap: 6rem; /* Increased gap */
   padding: 2.5rem 0; /* Increased padding */
   margin: 0 1rem;
